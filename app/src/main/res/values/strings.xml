@@ -13,4 +13,10 @@
     <string name="location">Enter your city or zipcode</string>
     <string name="birth">Enter your date of bith</string>
     <string name="back">Back</string>
+    <string name="time">Time to personalize for your needs</string>
+    <string name="theaters">Theaters near you</string>
+    <string name="select">Select your preferred locations</string>
+    <string name="search">Search by theater name</string>
+    <string name="finish">Finish</string>
+    <string name="amc">AMC Fullerton Dine-In</string>
 </resources>
