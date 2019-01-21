@@ -12,4 +12,5 @@
     <string name="here">We are almost there. Hang tight</string>
     <string name="location">Enter your city or zipcode</string>
     <string name="birth">Enter your date of bith</string>
+    <string name="back">Back</string>
 </resources>
