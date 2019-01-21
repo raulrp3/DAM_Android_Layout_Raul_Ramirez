@@ -8,4 +8,8 @@
     <string name="name">Enter your name</string>
     <string name="email">Enter your email</string>
     <string name="password">Enter your password</string>
+    <string name="skip">SKIP</string>
+    <string name="here">We are almost there. Hang tight</string>
+    <string name="location">Enter your city or zipcode</string>
+    <string name="birth">Enter your date of bith</string>
 </resources>
