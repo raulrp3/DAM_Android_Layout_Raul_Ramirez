@@ -19,4 +19,8 @@
     <string name="search">Search by theater name</string>
     <string name="finish">Finish</string>
     <string name="amc">AMC Fullerton Dine-In</string>
+    <string name="my_location">LOCATION</string>
+    <string name="terrain">TERRAIN</string>
+    <string name="search2">SEARCH</string>
+    <string name="exit">EXIT</string>
 </resources>
