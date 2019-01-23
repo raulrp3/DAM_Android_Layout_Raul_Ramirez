@@ -31,21 +31,24 @@
         android:layout_marginTop="40dp"
         android:layout_gravity="center_horizontal"
         android:textColor="@color/black"
-        android:hint="@string/name"/>
+        android:hint="@string/name"
+        android:background="@drawable/input"/>
     <EditText
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:layout_gravity="center_horizontal"
         android:textColor="@color/black"
-        android:hint="@string/email"/>
+        android:hint="@string/email"
+        android:background="@drawable/input"/>
     <EditText
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:layout_gravity="center_horizontal"
         android:textColor="@color/black"
-        android:hint="@string/password"/>
+        android:hint="@string/password"
+        android:background="@drawable/input"/>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -60,14 +63,14 @@
         android:layout_gravity="center_horizontal"
         android:text="@string/google"
         android:padding="15dp"
-        android:background="@color/fifthColor"
+        android:background="@drawable/continue_b"
         android:textColor="@color/black"
         android:drawableStart="@drawable/ic_radio_button_unchecked_black_24dp"
         android:drawablePadding="15dp" />
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@color/fifthColor"
+        android:background="@drawable/continue_b"
         android:textColor="@color/thirdColor"
         android:text="@string/continueB"
         android:paddingLeft="30dp"
